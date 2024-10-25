@@ -14,14 +14,14 @@ h1 {
   background-color: #FAC748;
   color:#1D2F6F;
   text-align: center; 
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif; /* type of font*/
 }
 
 main {
-  margin: 0 auto;
+  margin: 0 auto; /* margins are the auto 0*/
   max-width: 60%;
   text-align: center;
-  font-family: 'Overpass', sans-serif; 
+  font-family: 'Overpass', sans-serif;  /*. type of font*/
 }
 
 /* STYLE TEXT */
@@ -29,7 +29,7 @@ p {
   font-size: 1.2em;
   text-align: left; 
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 1em; /*this whole section applie sto the padding between each line and text*/
 }
 
 #fact {
